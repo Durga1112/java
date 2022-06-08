@@ -148,11 +148,7 @@ Restart your Windows PC.</p>
         alt="Support for printer"
         width="15%"
       ></img>
-      <img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8oDwQ8Ki6r0TnKJ3-0GPUIbw_L1cx1ZLGVA&usqp=CAU"
-        alt="Support for printer"
-        width="15%"
-      ></img>
+     
         <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
 <div class="footerr">
 
